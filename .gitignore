@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
+*.pyc
+.env
+genres_v2.csv
+archive/
+spotify.pdf
+*.zip
